@@ -99,5 +99,8 @@ Open `http://localhost:3000` in your browser.
 
 ---
 
-## 👥 Team
+## 👥 Team Astra
+Bhavesh Chauhan 
+Riya Rana
+Aashita
 Built with precision for real-time geospatial intelligence.
